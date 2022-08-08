@@ -46,6 +46,8 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
+  position: relative;
+  z-index: 2;
 }
 
 .header__square-pic {
@@ -62,6 +64,7 @@
   bottom: 30px;
   font-weight: normal;
   font-size: 18px;
+  z-index: 2;
 }
 .header__link {
   color:#2f80ed;
