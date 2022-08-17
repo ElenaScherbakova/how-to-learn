@@ -318,3 +318,9 @@
 .footer__social-icon {
   font-size: 16px 16px;
 }
+.card__image {
+  width: 160px;
+  height: 160px;
+  padding: 60px 40px 43px 40px;
+  border-radius: 50%;
+}

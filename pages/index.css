@@ -6,7 +6,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/ video/video.css);
+@import url(../blocks/video/video.css);
 @import url(../blocks/oakley/oakley.css);
 
 
@@ -20,7 +20,7 @@
 @import url(../blocks/techniques/cards/__item/cards__item.css);
 
 
-@import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__iframes/__iframe/video__iframe.css);
 
 
 
