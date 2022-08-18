@@ -3,7 +3,7 @@
   flex-direction: row;
   flex-flow: wrap;
   width: 920px;
- flex-direction: row;
- /* justify-content: space-between;
+  column-gap: 100px;
+
 
 }
