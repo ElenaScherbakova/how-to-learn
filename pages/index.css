@@ -95,7 +95,7 @@
 @import url(../blocks/footer/__colunm-links/footer__column-links.css);
 
 
-@import url(../blocks/section-title/__theme/section-title__theme_dark.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/__theme/section-subtitle__theme_dark.css);
 @import url(../blocks/table/__theme/table__theme_dark.css);
 
